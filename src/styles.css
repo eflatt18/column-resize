@@ -1,0 +1,50 @@
+#root{
+  margin-top: 5%;
+  margin-left: 5%
+}
+
+
+
+div.react-grid-Canvas{
+  background-color: white;
+}
+
+/*.react-grid-Row:hover .react-grid-Cell:hover{
+  background-color: pink;
+}*/
+
+
+div.react-grid-Grid{
+  border-radius: 3px
+
+}
+
+div.react-grid-Main{
+  outline: none;
+
+}
+
+div.react-grid-HeaderCell{
+  background-color: #f1f1f1;
+  color: black;
+  border-right: 3px solid #1C789F;
+  border-left: 1px solid #f1f1f1;
+  border-bottom: 1px solid #f1f1f1;
+
+
+}
+
+div.react-grid-Header{
+  background-color: #f1f1f1;
+}
+
+div.react-grid-Cell{
+  background-color: #fff;
+  color: black;
+  font-weight: 500;
+  border: none;
+}
+
+div.react-grid-Row--odd{
+  background-color: black;
+}
