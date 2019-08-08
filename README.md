@@ -1,1 +1,1 @@
-prototype for column resizing and dragging
+React prototype for column resizing and dragging
